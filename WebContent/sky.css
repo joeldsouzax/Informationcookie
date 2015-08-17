@@ -1,9 +1,7 @@
-@CHARSET "UTF-8";
-
 
 .carton {
-  width: 0px;
-  height: 0px;
+  width: 175px;
+  height: 200px;
   padding: 15px;
 }
 .carton .carton-info {
@@ -15,8 +13,8 @@
   text-shadow: 1px 1px #000;
 }
 .carton .pics {
-  width: 0px;
-  height: 0px;
+  width: 175px;
+  height: 120px;
   position: relative;
 }
 .carton .pics .cloudy {
@@ -100,14 +98,12 @@
   background: #f7f7f7;
 }
 .carton .pics .moon:after {
-  content: '' ;
+  content: '';
   display: block;
   position: absolute;
   margin-left: 25px;
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #666666;
+  background: #ff7373;
 }
-
-

@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+h1 {
+  text-align: center;
+  padding: 50px 0;
+  font-weight: 800;
+  margin: 0;
+  letter-spacing: -1px;
+  color: inherit;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+  font-weight: 300;
+  color: inherit;
+  padding: 50px;
+  font-family: 'Roboto', sans-serif;
+}
